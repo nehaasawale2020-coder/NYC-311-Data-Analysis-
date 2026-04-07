@@ -5,7 +5,8 @@ Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the proje
 
 The analysis helps in finding:
 
-Most frequent complaints
-Agencies handling requests
-Time taken to resolve issues
-Trends in complaints over time
+Most frequent complaints,
+Agencies handling requests,
+Time taken to resolve issues,
+Trends in complaints over time.
+
